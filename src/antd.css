@@ -1,0 +1,28 @@
+/* 分配商品 */
+.send-goods-form .ant-form-item-label {
+    width: 82px;
+    margin-right: 16px;
+}
+
+.send-goods-form .ant-form-item-label > label {
+    color: rgba(0, 0, 0, 0.65);
+}
+
+.ant-statistic-content-value-decimal {
+    font-size: 14px;
+}
+
+/* 导航 */
+
+.ant-menu-submenu-title {
+    font-size: 14px;
+    height: 48px;
+}
+
+.ant-menu-submenu > .ant-menu {
+    background-color: #F5F5F5;
+}
+
+.ant-menu-submenu .ant-menu-item {
+    font-size: 12px;
+}

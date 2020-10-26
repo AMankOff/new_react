@@ -1,0 +1,57 @@
+.color_f00{
+    color: rgb(212, 85, 85);
+}
+.color_00f{
+    color: #40a9ff;
+}
+
+.shop_form_item{
+    margin: 10px 15px;
+}
+.shop_form_reset{
+    margin: 0 10px;
+    width: 80px;
+}
+.shop_table_model{
+    margin: 0px 15px 10px !important;
+}
+.shop_linkbtn-class{
+    background-color: transparent;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 0 15px 0 0;
+}
+.shop_linkbtn_default{
+    background-color: transparent;
+    color: #ccc;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 0 15px 0 0;
+}
+.shop_select_w{
+    width: 120px !important;
+}
+
+.shop_footer_model{
+    display: flex;
+    font-size: 14px;
+}
+.shop_footer_checkout{
+    width: 200px;
+}
+.shop_footer_content{
+    flex: 1;
+    text-align: right;
+}
+.shop_footer_color{
+    color: #333;
+    font-size: 16px;
+    margin-right: 20px;
+}
+.shop_footer_price{
+    color: rgb(212, 85, 85);
+    font-size: 16px;
+    margin-right: 20px;
+}

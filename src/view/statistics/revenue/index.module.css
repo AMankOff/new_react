@@ -1,0 +1,41 @@
+
+.colBorder {
+    border-left: 1px solid #DDD;
+}
+
+.mt25 {
+    margin-top: 25px;
+}
+
+.c98 {
+    color: #989898;
+}
+
+.tableMin {
+    min-width: 680px;
+}
+
+.rankIndex {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    
+    color: #fff;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 16px;
+    font-size: 12px;
+}
+
+.bg666 {
+    background: #666666;
+}
+
+.bgddd {
+    color: #666666;
+    background: #DDD;
+}
+
+.noneHeight {
+    height: 18px;
+}
